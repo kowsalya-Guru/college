@@ -1,0 +1,24 @@
+.m-190 {
+    margin: 190px;
+}
+
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+.card-size {
+    margin-left: 190px;
+    margin-right: 190px;
+}
+
+/* .card {
+    background-color: transparent;
+} */
+
+.background-img {
+    background-color: rosybrown;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
